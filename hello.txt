@@ -1,4 +1,3 @@
-My name is Jubert Galas
-BSIT-3D\
-21 y/0
-fav color blue
+git@github.com:Galas310458/-My-File-SSH-Key-.git
+
+https://github.com/Galas310458/-My-File-SSH-Key-/edit/main/hello.txt
