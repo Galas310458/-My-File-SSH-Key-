@@ -1,5 +1,3 @@
 # -My-File-SSH-Key-
-Jubert 
-Galas
-BSIT-3D
-Male
+https://github.com/Galas310458/-My-File-SSH-Key-.git
+https://github.com/Galas310458/-My-File-SSH-Key-/edit/main/README.md
